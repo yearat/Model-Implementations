@@ -1,4 +1,4 @@
-# All Hail The Vua Spirit
+# All Hail The Vua Spirit 🔥
 
 import torch
 import torch.nn as nn
